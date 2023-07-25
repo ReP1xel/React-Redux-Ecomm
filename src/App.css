@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.margin-top-style{
+  margin-top: 60px !important;
+}
+
+.product-image{
+  height: 180px !important;
+  width: 180px !important;
+}
+
+.image2{
+  display: flex !important;
+  height: 180px !important;
+  width: 100% !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background-color: white !important;
+}
+
+.header2{
+  max-height: 3em !important;
+  line-height: 1.5em !important;
+  font-size: 16px !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  display: -webkit-box !important;
+  -webkit-box-orient: vertical !important;
+}
